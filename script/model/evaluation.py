@@ -73,7 +73,7 @@ if __name__ == '__main__':
 		genes.extend(gene)
 
 		for i in range(batch_size):
-			PRED.write(f'{genes[i]},{prediction_output[0][i]}\n')
+			PRED.write(f'{gene[i]},{prediction_output[0][i]}\n')
 	
 	predictions = np.array(predictions)
 	labels = np.array(labels)
