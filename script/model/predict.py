@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
 	o_prediction = os.path.join(args.version, 'prediction_result.csv')
 	PRED = open(o_prediction, 'w')
-	for inputs, genes in get_batch_data(testset, batch_size):
+	for inputs, _, genes in get_batch_data(testset, batch_size):
 		prediction_output = sess.run(output, feed_dict={X: inputs})
 		for i in range(batch_size):
 			PRED.write(f'{genes[i]},{prediction_output[0][i]}\n')
