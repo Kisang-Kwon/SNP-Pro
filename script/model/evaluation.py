@@ -63,7 +63,7 @@ if __name__ == '__main__':
 	genes = []
 	for inputs, label, gene in get_batch_data(testset, batch_size):
 		prediction_output = sess.run(output, feed_dict={X: inputs})
-		predictions.extend(prediction_output[0])
+		predictions.extend(prediction_output)
 		labels.extend(label)
 		genes.extend(gene)
 

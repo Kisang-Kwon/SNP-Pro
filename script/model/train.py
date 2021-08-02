@@ -49,7 +49,7 @@ if __name__ == '__main__':
 	X = tf.placeholder(tf.float32, [batch_size, 1980, 11])
 	Y = tf.placeholder(tf.float32, [batch_size])
 	output = SNPPro(X, batch_size, dropout_rate, training=True)
-	loss = tf.sqrt(tf.reduce_mean(tf.square(output - Y)))
+	loss = tf.sqrt(tf.reduce_mean(tf.square(output - tf.expand_dims(Y, axis=1))))
 	optimizer = tf.train.AdamOptimizer(learning_rate).minimize(loss, global_step=global_step)
 
 	total_cost = tf.placeholder(tf.float32)
