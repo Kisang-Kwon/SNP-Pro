@@ -1,0 +1,3 @@
+Pearson Correlation: 0.7369077032209486 (p-value: 0.0)
+Spearman Correlation: 0.665008738862399 (p-value: 0.0)
+RMSE: 3.184495449066162

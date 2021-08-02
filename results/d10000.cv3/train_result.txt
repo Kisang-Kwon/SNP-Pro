@@ -1,0 +1,90 @@
+Epoch: 1
+Training Avg.cost = 2.4933506303210744
+Validation Avg.cost = 2.5235316319614647
+Epoch: 2
+Training Avg.cost = 2.266142960184603
+Validation Avg.cost = 2.3385933734886346
+Epoch: 3
+Training Avg.cost = 2.065323559863726
+Validation Avg.cost = 2.2197469607051463
+Epoch: 4
+Training Avg.cost = 1.9150097306454554
+Validation Avg.cost = 2.201510315515101
+Epoch: 5
+Training Avg.cost = 1.6877661202808376
+Validation Avg.cost = 2.234184103028849
+Epoch: 6
+Training Avg.cost = 1.473938130450435
+Validation Avg.cost = 2.092783698953688
+Epoch: 7
+Training Avg.cost = 1.3246567910538287
+Validation Avg.cost = 2.0227719068415464
+Epoch: 8
+Training Avg.cost = 1.2365106349491979
+Validation Avg.cost = 2.0344994771517815
+Epoch: 9
+Training Avg.cost = 1.1771895050625316
+Validation Avg.cost = 2.140780935820192
+Epoch: 10
+Training Avg.cost = 1.1419206175797154
+Validation Avg.cost = 2.087298636795487
+Epoch: 11
+Training Avg.cost = 1.125751014042413
+Validation Avg.cost = 2.0836732844598593
+Epoch: 12
+Training Avg.cost = 1.1080479953768663
+Validation Avg.cost = 2.033630269866437
+Epoch: 13
+Training Avg.cost = 1.039600674887537
+Validation Avg.cost = 2.027143793489784
+Epoch: 14
+Training Avg.cost = 1.0444605927031372
+Validation Avg.cost = 2.106279692379292
+Epoch: 15
+Training Avg.cost = 1.0393536590710282
+Validation Avg.cost = 2.0504589126044883
+Epoch: 16
+Training Avg.cost = 0.9967639532240573
+Validation Avg.cost = 2.066506832474843
+Epoch: 17
+Training Avg.cost = 0.9945874158474035
+Validation Avg.cost = 2.022159199862741
+Epoch: 18
+Training Avg.cost = 0.9869104108564788
+Validation Avg.cost = 2.0565409357747995
+Epoch: 19
+Training Avg.cost = 0.9887953998550074
+Validation Avg.cost = 2.074885682426393
+Epoch: 20
+Training Avg.cost = 0.9727075999258086
+Validation Avg.cost = 2.1337417921051385
+Epoch: 21
+Training Avg.cost = 0.9638712175332476
+Validation Avg.cost = 2.094519682439044
+Epoch: 22
+Training Avg.cost = 0.9569461291555199
+Validation Avg.cost = 2.038469551904127
+Epoch: 23
+Training Avg.cost = 0.9812585746841506
+Validation Avg.cost = 2.084578563719988
+Epoch: 24
+Training Avg.cost = 0.9514063716211821
+Validation Avg.cost = 2.081413818333298
+Epoch: 25
+Training Avg.cost = 0.9724169507092738
+Validation Avg.cost = 2.0353713529519735
+Epoch: 26
+Training Avg.cost = 0.9573822925401618
+Validation Avg.cost = 2.0922233431022614
+Epoch: 27
+Training Avg.cost = 0.9312301709309686
+Validation Avg.cost = 2.133092805141583
+Epoch: 28
+Training Avg.cost = 0.9236854001855245
+Validation Avg.cost = 2.042330279345624
+Epoch: 29
+Training Avg.cost = 0.9109135059181135
+Validation Avg.cost = 2.082404090952128
+Epoch: 30
+Training Avg.cost = 0.921474872302264
+Validation Avg.cost = 2.064475295510143
