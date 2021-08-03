@@ -46,10 +46,6 @@ def SNPPro(X, batch_size, dropout_rate=0.3, training=False):
 	conv2_reshape = tf.reshape(conv2, [batch_size, -1])
 	fc = tf.concat([conv2_reshape, dnn3], axis=1)
 	
-	#tmp_node = str(np.shape(fc))
-	#ar_node = tmp_node.split(', ')
-	#for_node = ar_node[1].split(')')
-	#n_nodes = int(for_node[0])
 	n_nodes = int(np.shape(fc)[1])
 
 	fc_W = tf.Variable(tf.random_normal([n_nodes, int(n_nodes/100)], stddev=0.01))
