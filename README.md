@@ -1,10 +1,8 @@
 # SNP-Pro
 
 SNP-Pro is a deep learning model designed for promoter activity prediction.   
-- Input data    
-Personalized promoter sequence
-- Label data
-Promoter activity signal measured in SuRE library
+- **Input data:** Personalized promoter sequence
+- **Label data:** Promoter activity signal measured in SuRE library
 
     
 ## Requirement
