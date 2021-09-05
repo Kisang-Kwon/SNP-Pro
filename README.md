@@ -49,5 +49,4 @@ Example
 ```
 python ./script/model/evaluation.py -i ./dataset/HG02601/HG02601_20000.csv -d ./data/features/HG02601 -v d10000.cv1 --restore
 python ./script/model/predict.py -i ./dataset/HG02601/HG02601_20000.csv -d ./data/features/HG02601 -v d10000.cv1 --restore
-
 ```
